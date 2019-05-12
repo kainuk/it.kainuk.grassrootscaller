@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Grassroots Call Center</string>
+    <string name="token_unknown">No token assigned (yet)</string>
+    <string name="registrationFailed">Registration Failed</string>
+    <string name="registeringDevice">Registering Device</string>
+    <string name="registrationError">Registration Error</string>
+    <string name="ok">OK</string>
+
+    <string name="nosmsperm">No SMS Permission yet</string>
+
+    <string name="nophoneperm">No Phone Permission yet</string>
+
+    <string name="permitCall">Permit Call</string>
+    <string name="permitSMS">Permit Send SMS</string>
+    <string name="none">---</string>
+
+    <string name="smsperm">SMS grantend</string>
+    <string name="phoneperm">Phone granted</string>
+
+
+</resources>
